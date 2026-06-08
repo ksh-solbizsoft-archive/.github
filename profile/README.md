@@ -8,6 +8,6 @@
 |---------|------|----------|------|
 | [ai-test](링크) | ai-test프로젝트 | Java, Spring | 2026 |
 | [mcp-test](링크) | mcp-test프로젝트 | Java, Spring | 2026 |
-
+| [open-code](링크) | 오픈소스 프로젝트 | Java, Spring | 2026 |
 ## 비고
 - 모든 프로젝트는 유지보수 하지 않습니다.
